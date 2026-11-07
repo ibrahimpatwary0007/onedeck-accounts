@@ -1,0 +1,5 @@
+/* OneDeck logo */
+.brand h1{display:flex;align-items:center;gap:9px;font-weight:700;color:var(--ink)}
+.brand h1 .logo{height:32px;width:auto;flex:none}
+.login::before{content:"";display:block;height:110px;margin:0 auto 4px;width:100%;background:url(logo-mark.svg) center/contain no-repeat}
+.login h2{text-align:center}
